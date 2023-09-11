@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DIENTZ
+- 👀 I’m interested in HTML, CSS, C, PYTHON, JAVA, JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 💞️ I’m looking to collaborate on HTML
+- 📫 Contact me by email: beamsky77@gmail.com
