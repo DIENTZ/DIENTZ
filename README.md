@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DIENTZ
-- 👀 I’m interested in HTML, CSS, C, PYTHON, JAVA, JAVASCRIPT
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on HTML
-- 📫 Contact me by email: beamsky77@gmail.com
+- 👋 Hi, I’m @DylanEdlyano
+- 👀 I’m interested in Frond End Web Developer, Data Analyst, UI/UX Designer, Graphic Designer
+- 🌱 I’m currently Data Analyst, UI/UX Designer, 3D Game Designer
+- 💞️ I’m looking to collaborate on UI/UX Designer
+- 📫 Contact me by email: edlyanodylan@gmail.com
